@@ -1,0 +1,5 @@
+TITLE='The Adventures of Tom Sawyer', AUTHOR=M.Twain, GENRE=story, PUBLISHER=American Publishing Company, YEAROFPUBLICATION=1876
+TITLE='A dictionary of ballet terms', AUTHOR=L.Kersley, GENRE=novel, PUBLISHER=Da Capo Press, YEAROFPUBLICATION=1981
+TITLE='The Dark Tower I: The Gunslinger', AUTHOR=S.King, GENRE=novel, PUBLISHER=Grant-Plume, YEAROFPUBLICATION=1982
+TITLE='The Dark Tower II: The Drawing of the Three', AUTHOR=S.King, GENRE=novel, PUBLISHER=Grant-Plume, YEAROFPUBLICATION=1987
+TITLE='Harry Potter and the Chamber of Secrets', AUTHOR=J.Rowling, GENRE=novel, PUBLISHER=Bloomsbury Publishing, YEAROFPUBLICATION=1998
